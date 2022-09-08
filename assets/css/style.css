@@ -118,6 +118,10 @@ html{
     font-size: 1.5rem;
     margin-bottom: 20px;
 }
+#intro p{
+    line-height: 1.6rem;
+    word-spacing: .3rem;
+}
 
 /* portfolio section */
 #portfolio{
@@ -187,6 +191,10 @@ html{
     background-color: #201d1dc4;
     padding: 10px;
 }
+.box p{
+    line-height: 1.6rem;
+    word-spacing: .3rem;
+}
 /* contact section */
 #contact{
     display: flex;
@@ -237,4 +245,9 @@ html{
     color: #000;
     font-size: bold;
     padding: 5px 0;
+}
+.form i{
+    font-size: 2rem;
+    color: #fff;
+    margin: 2rem auto;
 }
