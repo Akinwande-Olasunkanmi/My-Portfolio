@@ -5,6 +5,11 @@
 .headings{
     font-size: 1.7rem;
 }
+.main{
+    position: relative;
+    left: 1%;
+    top: 0%;
+}
 
 /* about */
 #pic img{

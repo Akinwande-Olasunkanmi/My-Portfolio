@@ -7,6 +7,14 @@
 .headings{
     font-size: 2.5rem;
 }
+#home .main .headings{
+    font-size: 1.5rem;
+}
+.main{
+    position: relative;
+    left: 15%;
+    top: 10%;
+}
 /* about */
 #pic{
     flex-direction: column;
