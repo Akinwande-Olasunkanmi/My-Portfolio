@@ -19,11 +19,17 @@
 #intro h2{
     font-size: 1.5rem;
 }
+#intro p{
+    word-spacing: normal;
+}
 /* portfolio */
 .gallery img{
     width: 250px;
     height: 150px;
     margin: 10px;
+}
+#services .row .box p{
+    word-spacing: normal;
 }
 
 /* contact */
