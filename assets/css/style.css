@@ -238,6 +238,26 @@ html{
     cursor: pointer;
     box-shadow: 0 0 10px #fff;
 }
+#contact .container{
+    margin-bottom: 3rem;
+}
+#contact .container .col-md-6 i{
+    font-size: 1.5rem;
+}
+#contact .container .col-md-6 a{
+    text-decoration-line: none;
+    color: #0c0b0b;
+}
+#contact .container .col-md-6{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+#contact .container .col-md-6 .fa:hover{
+    color: #4ff04f;
+}
+
+/* footer */
 #footer{
     background-color: #fff;
 }
